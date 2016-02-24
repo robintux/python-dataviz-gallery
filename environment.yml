@@ -1,0 +1,10 @@
+name: python-dataviz-gallery
+dependencies:
+  - python=3.5
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - notebook
