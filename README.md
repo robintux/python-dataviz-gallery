@@ -2,6 +2,8 @@
 
 A collection of Python data visualization in Jupyter Notebooks
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/atelierhide/python-dataviz-gallery)
+
 ## Scatter Plot in matplotlib
 
 <a href='./ipynb/mpl_scatterplot.ipynb'>
