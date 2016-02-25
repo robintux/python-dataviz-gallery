@@ -1,0 +1,5 @@
+# matplotlib < 1.5
+# axes.color_cycle : 006ba4, ff800e, ababab, 595959, 5f9ed1, c85200, 898989, a2c8ec, ffbc79, cfcfcf
+
+# matplotlib >= 1.5
+axes.prop_cycle : cycler('color', ['006ba4', 'ff800e', 'ababab', '595959', '5f9ed1', 'c85200', '898989', 'a2c8ec', 'ffbc79', 'cfcfcf'])

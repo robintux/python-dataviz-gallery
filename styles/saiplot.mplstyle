@@ -1,0 +1,50 @@
+### LINES
+lines.linewidth : 2.5
+lines.markeredgewidth : 0
+lines.markersize : 10
+
+### TEXT
+text.color : gray
+
+### AXES
+axes.linewidth : 0
+axes.grid : True
+axes.titlesize : x-large
+axes.labelsize : large
+axes.labelcolor : gray
+
+### COLORS
+# tcb10
+# axes.color_cycle : 006ba4, ff800e, ababab, 595959, 5f9ed1, c85200, 898989, a2c8ec, ffbc79, cfcfcf
+axes.prop_cycle : cycler('color', ['006ba4', 'ff800e', 'ababab', '595959', '5f9ed1', 'c85200', '898989', 'a2c8ec', 'ffbc79', 'cfcfcf'])
+
+### TICKS
+xtick.major.size : 0
+xtick.minor.size : 0
+xtick.color : gray
+ytick.major.size : 0
+ytick.minor.size : 0
+ytick.color : gray
+
+### GRIDS
+grid.color : black
+grid.linestyle : --
+grid.linewidth : 0.6
+grid.alpha : 0.25
+
+### LEGEND
+# legend.fancybox : True
+legend.numpoints : 1
+legend.fontsize : medium
+legend.frameon : False
+# legend.framealpha : 0.5
+
+### FIGURE
+#figure.facecolor : white
+#figure.edgecolor : white
+
+### SAVING FIGURES
+savefig.format : png
+savefig.bbox : tight
+savefig.jpeg_quality : 100
+savefig.transparent : True
