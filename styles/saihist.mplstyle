@@ -1,0 +1,28 @@
+### TEXT
+text.color : gray
+
+### AXES
+axes.edgecolor : gray
+axes.linewidth : 1.0
+axes.grid : False
+axes.titlesize : x-large
+axes.labelsize : large
+axes.labelcolor : gray
+
+### TICKS
+xtick.major.size : 0
+xtick.minor.size : 0
+xtick.color : gray
+ytick.major.size : 0
+ytick.minor.size : 0
+ytick.color : gray
+
+### FIGURE
+#figure.facecolor : white
+#figure.edgecolor : white
+
+### SAVING FIGURES
+savefig.format : png
+savefig.bbox : tight
+savefig.jpeg_quality : 100
+savefig.transparent : True

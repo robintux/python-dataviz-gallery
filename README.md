@@ -4,7 +4,7 @@ A collection of Python data visualization in Jupyter Notebooks
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/atelierhide/python-dataviz-gallery)
 
-## Saiplot Style in matplotlib
+## Line Plot in matplotlib
 
 <a href='./ipynb/mpl_saiplot.ipynb'>
 ![](./images/mpl_saiplot.png)
@@ -17,6 +17,10 @@ A collection of Python data visualization in Jupyter Notebooks
 </a>
 
 ## Histogram in matplotlib
+
+<a href='./ipynb/mpl_saihist.ipynb'>
+![](./images/mpl_saihist.png)
+</a>
 
 <a href='./ipynb/mpl_histogram.ipynb'>
 ![](./images/mpl_histogram.png)
